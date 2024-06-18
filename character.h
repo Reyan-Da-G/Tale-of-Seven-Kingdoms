@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// This the character class 
 class Character{
 protected:
     string name;
@@ -10,6 +10,7 @@ protected:
     int progress;
     int coins;
 public: 
+    // Default constructor to initialize member variables
     Character(){
         name = "";
         filename = "";
@@ -18,13 +19,15 @@ public:
         progress = 0;
         coins = 0;
     }
-    
+
+    // This function is used when selecting the character
     void updateName(string name, string weapon, string file){
         this->name = name;
         this->weapon = weapon;
         filename = file;
     }
 
+    // Function used to display current progress and stats during gameplay
     void displayStats() const {
         cout << "Progress - " << progress << "%";
         cout << "\t\t <- " << name << " ->";
@@ -36,6 +39,7 @@ public:
         cout << "------------------------------------------------------------------\n\n";
     }
 
+    // Function to recover health any time during gameplay
     void recoverhealth(int coin){
         if(health >= 100){
             cout << "Health is already full!\n";
@@ -53,6 +57,7 @@ public:
         }
     }
 
+    // Function to set values when game is loaded from saved file
     void setValues(string name, string weapon, string file, int heal, int prog, int coin){
         this->name = name;
         this->weapon = weapon;
@@ -62,6 +67,7 @@ public:
         coins = coin;
     }
 
+    // Function to update current stats after each scene during gameplay
     void updateStats(int prog, int heal, int coin){
         progress += prog;
         if(progress > 100) progress = 100;
