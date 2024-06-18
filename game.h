@@ -11,21 +11,23 @@ private:
     
     static const int scenessize = 200;     // Size of total scenes
     static int currentscene;       
-    Scene *scenes;            
+    Scene *scenes;      // Pointer to the array of objects of Scene class      
     bool autoSave;
 
 
 public:
+// A default constructor to initalize and create objects and call display function automatically
     Game(){       
         scenes = new Scene[scenessize];
         autoSave = false;
         displayMainMenu();       
     }
-    
+// Destructor to destroy scenes object array when game exits
     ~Game(){
         delete []scenes;
     }
- 
+
+// Auto save game procedure here
 void autoSavegame() const {
     ofstream file("savegame.txt");
     if (file.is_open()) {
@@ -40,6 +42,7 @@ void autoSavegame() const {
     } else cout << "Error opening file!";
 }
 
+// Loading scenes from the file using the filename as parameter
 void loadScenes(const string filename){
     
     ifstream file(filename);
@@ -67,6 +70,7 @@ void loadScenes(const string filename){
     else cout << "Unable to open scenes file";
 }
 
+// Display main menu function 
 void displayMainMenu(){
     int choice;
     
@@ -85,7 +89,7 @@ void displayMainMenu(){
         cout << "\nEnter your choice: ";
         cin >> choice;
         
-        switch (choice) {
+        switch (choice) {   // User input check for different function calls
             case 1:
                 startNewGame();
                 break;
@@ -105,13 +109,14 @@ void displayMainMenu(){
     } while (choice != 4);
 }
 
+// Starting new game function to start a new game
 void startNewGame() {
     
     system("clear");
     cout << "\n\t\t\tStarting a new game...\n";
     sleep(1);
     
-    // Intro for the game
+    // Intro part for the game
     system("clear");
     ifstream intro_file("intro.txt");      
     if(intro_file.is_open()){
@@ -123,7 +128,7 @@ void startNewGame() {
         intro_file.close();
     } else cout << "Error opening intro file!";
     
-    // Character selection
+    // Character selection part
     system("clear");
     ifstream file("charactermenu.txt");     
     if(file.is_open()){
@@ -153,7 +158,8 @@ void startNewGame() {
     
     // Load scene in backend based on character selected
     loadScenes(filename);      
-    
+
+    // Autosave feature
     cout << "\n\nYou have choosen " << name << endl;
     cout << "\n\nDo you want to turn on the autosave feature?\n";
     cout << "\nPress (Y) for yes and (N) for no...";
@@ -181,12 +187,14 @@ void startNewGame() {
     playGame(0);      
 }
 
+// Combat function to encounter enemy during gameplay
 void combat() {
     Enemy enemy(name);
     system("clear");
     cout << "You have encountered " << enemy.getName() << " in a direct combat!\n";
     cout << "\\t\t\tnIts time to fight!\n";
     sleep(2);
+    
     while (enemy.getHealth() > 0 && health > 0) {
         system("clear");
         cout << "======================== < - " << enemy.getName() << " - > =======================\n\n";
@@ -230,6 +238,7 @@ void combat() {
     sleep(2);
 }
 
+// Function to handle if the game is completed
 void handleGamecomplete(){
     while (true) {
         string input;
@@ -255,6 +264,7 @@ void handleGamecomplete(){
     }
 }
 
+// Function to handle if the game is over
 void handleGameOver() {
     while (true) {
         string input;
@@ -282,6 +292,7 @@ void handleGameOver() {
     }
 }
 
+// The game procedure is here, this function runs the flow of game display each scene according to transition
 void playGame(int sceneIndex) {
     while (true) {
         system("clear");
@@ -331,7 +342,8 @@ void playGame(int sceneIndex) {
             handleGameOver();
             continue;
         } 
-        
+
+        // Checking next scene game is over, completed or combat scene is arrived
         if (nextScene == -1) {
             handleGameOver();
             continue;
@@ -353,6 +365,7 @@ void playGame(int sceneIndex) {
     } 
 }
 
+// Load game function to load data from file and initalize it to current object
 void loadGame(){
     system("clear");
     cout << "Loading game...\n";
@@ -392,6 +405,7 @@ void loadGame(){
     }
 }
 
+// Manual save game function that saves the progress file
 void saveGame(){
     cout << "\nSaving game...\n";
     sleep(1);
@@ -414,6 +428,7 @@ void saveGame(){
     playGame(currentscene); 
 }
 
+// Display how to play game
 void displayInstructions(){
     system("clear");
     
@@ -432,6 +447,7 @@ void displayInstructions(){
     cin.get();
 }
 
+// FUnction to exit the game
 void exitGame(){
     cout << "\nExisting game!\n";
     exit(0);
