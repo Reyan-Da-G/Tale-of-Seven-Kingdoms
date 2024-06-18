@@ -1,0 +1,29 @@
+======================== [ INSTRUCTIONS ] ========================
+
+1.) The game story is about two sons and their journey towards claiming throne. Each son must overcome different challenges to become a ruler. 
+
+2.) Select your character and the game starts.
+
+3.) You will be displayed a particular scene and will be asked for your selection.
+
+4.) Press (1) to select first choice and Press (2) to select second choice.
+
+5.) Press (3) to recover health if the coins are above 200.
+
+6.) You can save your game anytime by pressing (6) or turn on autosave before starting game to avoid manually saving game.
+
+7.) To return to main menu during gameplay, press (4).
+
+8.) You can load your last saved game by pressing (5).
+
+9.) To exit game press (0). Always save your game before exiting.
+
+Note : Your selection will affect overall storyline and can also cause death of the character. 
+Play and choose wisely!
+
+
+
+
+
+            
+             © Copyright [Reyan]. All rights reserved

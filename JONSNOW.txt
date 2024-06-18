@@ -1,0 +1,995 @@
+King Robert visits Winterfell and asks Ned Stark to come with him to King's Landing. Ned decides to go and invites his son Jon Snow to join him.
+Accept and go with his father to King's Landing
+Refuse and join the Night's Watch with his uncle to defend the Wall 
+1 2
+05 20 0
+Jon Accept and goes with his father. They reach King's Landing during a chaotic time. As the city is attacked by traitors.
+Fight with his father
+Hide and wait for the war to end
+3 4
+05 30 0
+Jon decides to join the night watch and heads to the wall with his uncle. Upon arrival, He faces a challenge from the Wall defenders to prove his worthiness.
+Fight the challengers 
+Refuse to fight and give up 
+11 12
+05 50 -30
+Jon fights alongside his father. Despite his lack of experience, he stands bravely during the war. However, they face a large group of enemies stepping towards them.
+Stay and protect his father 
+Attempt to escape through the secret tunnel
+5 6
+05 10 -50
+Jon hides but is discovered by a group of traitors. The group of traitors kills him easily.
+Load last saved game (5)
+Exit Game (0)
+-1 -1 
+0 0 -100
+Jon stays and fights valiantly but is overpowered by the traitors. During his stay, Jon is killed defending his father.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon attempts to escape through the secret tunnel.
+Navigate the tunnel carefully to avoid detection 
+Rush through the tunnel, hoping to reach safely and quickly
+7 8
+05 20 -10
+Jon navigates and manages to escape the city unnoticed but is killed by some bandits.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon rushes through the tunnel and encounters enemy soldiers. Jon is cornered and killed by them.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+NO SCENE FOUND
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+NO SCENE FOUND
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon bravely fights and impresses the Night's Watch members.
+Be friend with his fellow recruits
+Stay distant and focus on training
+13 14
+05 50 10
+Jon refuses to fight and is seen as unworthy. He is expelled and has to face harsh winter alone. Jon dies from exposure and starvation.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon becomes friend with his fellow recruits, building strong alliances.
+Investigate rumors of white walkers beyond the wall
+Focus on his training and defense of the wall
+15 16
+05 0 0
+Jon stays focus on his training, isolating himself from the rest. Jon becomes disconnected and misses critical warnings about the white walker's attack. He is caught unprepared and get himself killed by the white walkers.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon investigates rumors of white walkers with a small team beyond the wall, uncovering a dark conspiracy of white walkers (Dead people such as zombies on their mission to finish humanity).
+Travel deeper into the unknown territory
+Return to the wall and reports findings
+17 18
+05 0 0
+Jon focuses on strengthening the great wall defenses and his skills.
+Take command of a patrol 
+Lead a training session
+19 20
+05 20 0
+Jon and his team travel deeper and encounter a large group of white walkers. The team is overwhelmed and killed by the white walkers.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon returns to the wall and reports about the white walkers.
+Lead a defense strategy against the white walkers
+Prepare to evacuate the wall and warns the Seven Kingdoms
+21 22
+05 50 0
+Jon takes command of a patrol and spot unusual movement beyond the wall.
+Investigate the movement alone
+Alert the Night's Watch and prepare for the potential attack
+23 21
+05 20 0
+Jon leads a training session, boosting a morale and skills of recruits.
+Organize a scouting mission beyond the wall
+Plan a defensive strategy for the wall
+24 21
+05 20 -10
+Jon prepares the Night's Watch to defend against the white walkers.
+Lead a night raid to disrupt the white walker's approach
+Fortify the wall and wait for the attack
+25 26
+05 50 15
+Jon decides to evacuate the wall and warn the Seven Kingdoms about the upcoming threat.
+Travel to south with his trusted friends
+Send a raven and stay to hold wall as long as possible
+27 26
+05 0 10
+Jon investigates the movement alone and find a group of wilding people.
+Confront the wildings and negotiate
+Return to the wall and report their position
+28 21
+05 20 -5
+Jon organizes a scouting mission beyond the wall to gather intelligence.
+Push further despite the risks
+Return to the wall with initial findings
+29 18
+05 20 -20
+Jon leads a daring night raid to disrupt the white walker's approach but he get fails and dies.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon fortifies the wall, preparing for a defensive stand.
+Hold the wall against the first wave of attackers
+Plan a strategic retreat to higher grounds
+30 31
+05 50 10
+Jon travel south with his trusted friends to warn the Seven Kingdoms. The people of south did'nt believe him and arrest him for spreading false stories.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon tries to negotiate with the wildings.
+Offer an alliance against the white walkers
+Threaten them to leave or face the Night's Watch
+32 33
+05 20 10
+Jon pushes further and his team is ambushed by white walkers. Jon and his team get killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon leads the defense of the wall against the first wave of white walkers.
+Directly engage the white walkers in battle
+Use the wall's defenses to their maximum potential
+34 35
+05 20 -20
+Jon plans a strategic retreat to higher grounds.
+Hold the line while evacuating the injured
+Abandon the wall and regroup at castle black
+36 37
+05 0 -20
+Jon offers an alliance with the wildings against the white walkers.
+Convince the wildings to join forces
+Warn them about the white walkers and part away
+38 39
+05 20 10
+Jon threatens the wildings, leading to a hostile response. The wildings attack Jon, and he is killed in the fight.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon directly engages the white walkers in the battle.
+Target the white walker's leader 
+Focus on defending the wall's gate
+40 41
+05 10 -50
+Jon uses the wall defenses to repel the white walkers.
+Use fire and archers to weaken their advance
+Focus on maintaining the integrity of the wall
+42 43
+05 20 0
+Jon holds the line while evacuating the injured.
+Stay to ensure the evacuation is complete
+Leave once the majority are saved
+44 45
+05 50 -10
+Jon abandons the wall and regroups at Castle Black.
+Prepare Castle Black for the next attack
+Plan to retake the wall with reinforcement
+46 47
+05 100 10
+Jon convinces the wildings to join forces against the white walkers.
+Lead the combine forces to the wall for the defensive stand
+Plan an offensive stand against the white walkers
+48 49
+05 20 0
+Jon warns the wildings about the white walkers and parts away, but the wilding didn't took it seriously and kills Jon to take command of Castle Black.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon targets the white walker's leaders in the battle.
+Focus on the Night King
+Take down the General first
+50 51
+05 20 -50
+Jon focuses on defending the wall's gate from the white walkers
+Reenforce the gate with additional men 
+Deploy traps to slow the white walkers
+52 53
+05 20 -20
+Jon uses fire and archers to weaken the white walkers advance.
+Lead a counter-attack to push them back 
+Focus on holding the line
+54 55
+05 20 20
+Jon focuses on maintaining the wall's integrity against the white walker's assaults.
+Use all available resources to fortify the wall
+Prepare for strategic withdrawal if necessary
+56 57
+05 20 10
+Jon stays to ensure the evacuation is completed
+Fight to protect the last group leaving 
+Leave with the remaining group
+58 59
+05 20 -10
+Jon leaves once the majority are safe
+Regroup with his forces for a counter-attack
+Seek the enforcements from the South
+60 61
+05 20 0
+Jon prepares Castle Black for the next white walker's attack
+Set up defenses and fortify position
+Gather resources and supplies for long siege
+62 63
+05 20 0
+Jon plans to retake wall with reinforcements.
+Leads an assault with available forces
+Wait for the arrival of the King's Landing army
+64 65
+05 100 -10
+Jon leads the combine forces to the wall for defensive stand.
+Integrate the wildings into the Night's Watch ranks
+Keep them as a separate force under their own leadership
+66 67
+05 20 30
+Jon plans an offensive against the white walkers with wildings
+Attack their main base directly
+Launch a series of raids to weaken them
+68 69
+05 20 -20
+Jon focuses on the Night King, hoping to end the threat by defeating him.
+Confront the Night King directly
+Set a trap for the Night King
+70 71
+05 20 -40
+Jon takes down the white walkers General to weaken their army.
+Engage in a direct fight with the Generals
+Use wildings tactics to pick them off 
+72 73
+05 20 -30
+Jon reenforces the gates with additional men to hold against the white walkers
+Lead from the frontline
+Coordinate the defense from a strategic position
+74 75
+05 20 30
+Jon deploys traps to slow the white walkers advance
+Spring the traps early to disrupt their formation
+Wait until they are deep within the traps to maximize damage
+76 77
+05 20 0
+Jon leads a counter-attack to push the white walkers attack.
+Charge with all remaining forces
+Use hit and run strategy to keep them off balance
+78 79
+05 20 -20
+Jon focus on holding the line against the relentless assault
+Call for reinforcement from other Watch positions
+Dig in and hold the wall at all costs
+80 81
+05 92 -10
+Jon uses all available resources to fortify the wall.
+Strengthen the defenses with additional barricades
+Reenforce key points to create strong holds
+82 83
+05 20 30
+Jon prepares for a strategic withdrawal if the defenses fail.
+Establish fallback position
+Prepare to recreate to Castle Black
+84 85
+05 20 -10
+Jon fights to protect the last group evacuating the wall.
+Hold the line until everyone is safe
+Retreat while covering their escape
+86 87
+05 20 -30
+Jon leaves with the last group, heading to safety.
+Regroup with the Night's Watch at a safer location
+Head to South to seek reinforcement
+88 89
+05 20 10
+Jon regroups with his forces for a counter-attack against the white walkers.
+Retake the wall with his force
+Flank a series of ambushes to weaken them over time
+47 91
+05 20 30
+Jon seeks reinforcement from the South to aid in the battle against white walkers.
+Travel to North to gather support
+Send Ravens to various houses for aid
+92 93
+05 20 30
+Jon steps up defenses and fortify position at Castle Black.
+Create a choke point to funnel the White walkers
+Build high walls and barriers to keep them out 
+94 95
+05 20 20
+Jon gathers resources and supplies for a long sake
+Focus on stockpiling food and water
+Collect weapons and reenforce the defenses
+96 97
+05 20 30
+Jon leads an assault to retake the wall with available forces.
+Strong the wall and engage in direct combat
+Use stealth and surprise to gain the upper hands
+110 99
+15 0 0
+Jon waits for more reinforcement before launching attack
+Plan a coordinate assault with the reinforcmenet
+Wait for the right moment to strike
+100 101
+05 20 0
+Jon integrates the wildings into the Night's Watch ranks.
+Train them to fight alongside the Night's Watch
+Deploy them as scouts and raiders
+102 103
+05 20 0
+Jon keeps the wildings as a separate force under their own leadership.
+Coordinates their actions with the Night's Watch
+Give them independance to operate independently
+104 105
+05 20 0
+Jon attacks the white walkers main base directly with the wildings.
+Lead the Charge with the wildings
+Coordinate a multi-pronged attack
+106 107
+05 20 -20
+Jon launches a series of raid to weaken the white walkers
+Target thier supply lines and reinforcements
+Ambush their patrols to weaken their numbers and then attack them
+108 110
+10 10 -10
+Jon confronts the Night King directly, prepare for a fight to the death.
+Engage the Night King in a duel
+Try to lure the Night King into a trap
+117 118
+05 20 -30
+Jon steps a trap for Night King, hoping to catch him off-guard.
+Use himself as bait to draw the Night King 
+Set a trap with explosives and wait for the Night King
+119 120
+05 20 0
+Jon engages the white walkers' generals in direct combat.
+Target the most powerful General first
+Take out the weaker generals to isolate the strongest
+121 122
+05 20 -30
+Jon uses rebel tactics to pick off the white walker's generals.
+Ambush the generals individually
+Set traps along their patrol routes
+123 124
+05 20 -10
+Jon leads from the frontline, inspiring his men.
+Charge into battle to repel the attackers
+Hold the line and coordinate the defense
+125 126
+05 20 20
+Jon coordinated the defense from a strategic position.
+Direct his men to focus on the main gate
+Deploy reinforcement to weaker sections of the wall
+127 128
+05 20 0
+Jon springs the traps early to disrupt the white walker's formation.
+Lead a charge to exploit the disruption
+Fall back to regroup and plan the next move
+129 130
+05 20 0
+Jon waits until the white walkers are deep within the traps.
+Trigger all traps at once for maximum impact
+Release traps gradually to maintain pressure
+131 132
+05 20 0
+Jon charges with all the remaining forces to push back the White Walkers.
+Focus on breaking their front line
+Flank them to attack from the soldiers
+133 134
+05 20 -10
+Jon uses hit-and-run tactics to keep the White Walkers off balance.
+Harass their rear guard 
+Target their command structure
+135 136
+05 20 -5
+Jon calls for reinforcements from other Night's Watch positions.
+Send ravens to request urgent aid
+Signal other positions to join the fight
+137 138
+05 20 10
+Jon digs in and prepares to hold the Wall at all costs.
+Fortify the Wall and stand firm
+Prepare for a last-ditch counter-attack
+139 140
+05 20 10
+Jon strengthened the defenses with additional barricades.
+Create a second line of defense
+Reinforce the main gate area
+141 142
+05 20 20
+Jon reinforces key points to create a stronghold.
+Concentrate defenses at vulnerable spots
+Spread resources to cover all critical points.
+143 144
+05 20 20
+Jon establishes fallback positions for a strategic retreat.
+Secure the retreat to route to Castle Black
+Set up ambush points along retreat path
+145 146
+05 20 10
+Jon prepares to retreat to Castle Black if necessary.
+Organize a fighting retreat
+Retreat immediately if the situation becomes dire
+147 148
+05 20 10
+Jon holds the line until everyone is safe
+Make a stand to cover the final group
+Lead the last group personally to safety
+149 150
+05 20 -20
+Jon retreats while covering the group's escape.
+Stay behind to ensure their safety
+Fall back with the group and regroup
+151 152
+05 20 -10
+Jon regroups with the remaining forces at Castle Black.
+Prepare to counter-attack from the new position
+Strengthen defenses at the new base
+153 154
+05 29 10
+Jon heads to south to seek reinforcements.
+Head to Winterfell for support
+Seek aid from other Northern houses
+155 156
+05 29 20
+Jon leads a frontal assault on the White Walkers.
+Break their line with a full charge
+Use cavalry to flank and distrupt them
+157 158
+05 29 -20
+Jon plans a series of ambushes to weaken the White Walkers over time.
+Set traps in the forest to ambush their patrols
+Organize night raids to hit their camps
+159 160
+05 29 -20
+Jon travels to Winterfell to gather support against the White Walkers.
+Convince Sansa and Arya Stark to rally the North
+Recruit local villagers and train them as fighters
+161 162
+05 29 10
+Jon sends ravens to various Northern houses to seek aid.
+Send urgent pleas to major houses
+request help from smaller, more agile groups
+163 164
+05 29 0
+Jon creates chokepoints at Castle Black to funnel the White Walker.
+Set up archers to cover the chokepoints
+Prepare boiling oil to pour on the attackers
+165 166
+05 29 0
+Jon builds high walls and barriers to keep the White Walkers out.
+Reinforce the gates with iron and stone 
+Add spikes and traps along the walls
+167 168
+05 29 0
+Jon focuses on stockpiling food and water for a prolonged siege.
+Ration supplies to ensure they last longer.
+Forage and hunt to supplement the stockpiles
+169 170
+05 29 20
+Jon collects weapons and reinforces the defenses.
+Craft new weapons from available materials
+Strengthen the existing fortifications
+171 172
+05 29 30
+Jon storms the Wall and engages in direct combat with the undead.
+Charge straight at the White Walkers leading the attack
+Fight strategically to minimize casualties
+173 174
+05 29 -20
+Jon uses stealth to gain the upper hand in retaking the Wall.
+Sneak into their camp and sabotage their supplies
+Launch a surprise attack from within their ranks
+175 176
+05 29 10
+Jon plans a Coordinated assault with the arriving reinforcements.
+Lead a unified charge against the White Walkers
+Use the reinforcements to flank and encircle the enemy
+177 178
+05 29 10
+Jon prepares a defensive stand while awaiting reinforcements
+Hold a strong defensive position to buy time
+Conduct hit-and-run attacks to harass the enemy
+179 180
+05 29 20
+Jon trains the wildings to fight alongside the Night's Watch.
+Form mixed units for better cohesion
+Keep them in separate squads for specialized roles
+181 182
+05 29 10
+Jon deploys the wildings as scouts and raiders.
+Use them to gather intelligence on enemy movements
+Send them on raids to disrupt the White Walkers
+183 184
+05 29 0
+Jon coordinates the wildings' actions with the Night's Watch.
+Plan joint operations for strategic advantage
+Assign them to defend key positions independently
+185 186
+05 29 0
+Jon allows the wildings to operate independently.
+Give them freedom to choose their battles
+Encourage them to disrupt the enemy from behind their lines
+187 188
+05 29 0
+Jon leads the charge with the wildings against the White Walker's base.
+Attack head-on to break their defenses
+Surround the base and cut off their escape routes
+189 190
+05 29 10
+Jon coordinates a multi-pronged attack on the White Walker's base.
+Launch simultaneous attacks from all sides 
+Focus on breaching their weakest point 
+191 192
+05 29 -10
+Jon targets the White Walker's supply lines and reinforcements.
+Destroy their supply caches to starve them out
+Ambush their reinforcements to prevent them from regrouping
+193 194
+05 29 -10
+Jon ambushes the White Walker's patrol to reduce their numbers.
+Set traps along their patrol routes
+Engage in hit-and-run attacks to wear them down
+195 196
+05 29 -20
+Jon Attacked the Night King with his all forces and kills Night King in direct combat putting end to the battle. 2 months later, Jon gets invite in the Throne Room infront the Tyrant Queen. Jon has to made a decision to release the Kingdom from the tyrant queen. Jon finds himself in a position where he must finally confront Queen Daenerys Targaryen - The Mother of Dragons.
+Attempt to negotiate with Queen and seek peaceful resolution
+Prepare for a final showdown with Daenerys
+111 198
+05 0 0
+Jon tries to reason with Daenerys, appealing to her sense of justice and mercy.
+Persuade her to abdicate and seek peace
+Fail to convince her, leading to desperate battle
+113 114
+05 0 0
+NO SCENE
+NO SCENE
+NO SCENE
+-2 -2
+0 0 -100
+Jon confronts Daenerys directly, challenging her decisions and methods.
+Draw his sword and prepare for a final duel with her
+Call upon the remaining allies to stand against her.
+115 116
+10 0 05
+Jon fails to convince Daenerys, and a battle starts where Jon is killed by her Dragon.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon and Daenerys engage in a deadly duel. Jon ultimately kills Daenerys but is deeply scarred by the act he performs. Jon Snow is prisoned and sentenced to death.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon calls upon his allies, leading to a larger battle. Daenerys is overpowered, the battle last for long and Jon delivers the final blow. His great act marked him the new King of the Iron Throne - The Ruler of Seven Kingdoms and Protector of the Realm. After all the challenges he faces, he is finally crowned.
+Congratulations! you have completed the game...
+Press 4 to return to main menu
+-3 -3
+0 0 0
+The Night King overpowers Jon in a brutal duel and Jon gets Killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The traps failed, and Jon is surrounded and killed by the Night King's forces.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's bait plan backfires, and he is killed by the Night King.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The explosives are detected and neutralized. Jon is captured and killed. 
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is overwhelmed by the powerful White Walker general and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The stronger general counter-attacks, killing Jon.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's ambush fails, and he is overpowered and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's traps are discovered, leading to his capture and death.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is overwhelmed in the charge and killed by the White Walkers.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The line breaks, and Jon is surrounded and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The gate is breached, and Jon is killed defending it.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is isolated and killed while reinforcing a weak point.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's charge is countered, leading to his death.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is ambushed while regrouping and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The traps malfunction, and Jon is caught in the crossfire.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is detected and killed while releasing the traps. 
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is overrun by the White Walkers and killed. 
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The flank is countered, and Jon is killed. 
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's group is surrounded and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's attack on the command fails, leading to his death.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The ravens are intercepted, and Jon is overwhelmed and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The signal fails, and Jon's position is overrun.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The fortifications fail, and Jon is killed defending them.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's counter-attack is repelled, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The second line is breached, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The gate reinforcement fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is overwhelmed at a vulnerable spot and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is spread too thin and is killed in the defense.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The retreat is ambushed, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught in his own ambush and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The retreat is chaotic, and Jon is killed in the confusion.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught and killed during the retreat.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is overwhelmed while making a stand.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is killed while leading the last group to safety.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is surrounded and killed while staying behind.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is killed while falling back with the group.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's counter-attack is repelled, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The defenses fail, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's plea for help fails, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The Northern houses reject Jon, leading to his death.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's frontal assault fails, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The cavalry is countered, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught in his own traps and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 0
+Jon's night raids fail, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 0
+Sansa and Arya reject Jon, leading to his death.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The villagers refuse to fight, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The major houses refuse aid, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The small groups refuse aid, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The archers are overrun, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The boiling oil defense fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The gates are breached, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught in his own traps and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100 
+The supplies run out, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught while foraging and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The new weapons are ineffective, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The fortifications are breached, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is killed while storming the Wall.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's strategy fails, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught while sabotaging supplies and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon's surprise attack fails, and he is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The charge fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The flanking maneuver fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The defensive stand fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught during a raid and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The mixed units fail to coordinate, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The separate squads are overrun, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught while scouting and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The raid fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The joint operation fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The key positions are overrun, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The wildlings fail, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The disruption fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The head-on attack fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The base defense is too strong, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The simultaneous attacks fail, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The breach fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The supply destruction fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The ambush fails, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+The traps are detected, and Jon is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon is caught in a counter-attack and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100 
+Daenerys refuses his offer and kills Jon.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Jon fails in the final showdown and is killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100

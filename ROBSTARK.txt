@@ -1,0 +1,525 @@
+Rob Stark receives distressing news: his father, Ned Stark, has been arrested for treason in King's Landing. As the eldest Stark, Rob must decide how to respond.
+Gather the bannermen and march south to demand his father's release
+Send a raven to King's Landing for more information while preparing Winterfell's defenses
+1 2
+05 10 0
+Rob gathers his bannermen and begins the march towards south. On the way, he must choose how to adress the lords of the North.
+Speak to them with authority and demand their loyalty
+Appeal to their sense of honor and justice
+3 4
+05 0 0
+Rob sends a raven to King's Landing. While waiting for a reply, he strenghthens Winterfell's defenses.
+Train the soldiers rigorously
+Focus on fortifying the castle walls and gates
+5 6 
+05 20 0
+Rob speaks to the Northern lords with authority, demanding their loyalty. They respond with respect and agree to support him.
+Plan a strategic route to King's Landing, avoiding major Lannister forces
+March directly towards King's Landing to show strength
+7 8
+05 10 0
+Rob appeals to the lords' sense of honor and justice. They are moved and pledge their support to his cause.
+Gather more troops from loyal Northern houses
+Send scouts ahead to gather intelligence on enemy movements
+9 10
+05 10 0
+Rob trains the soldiers rigorously, improving their combat skills. However, he receives alarming news about a Lannister force approaching.
+Prepare an ambush for the Lannister force
+Fortify Winterfell further and prepare for a siege
+11 12
+05 10 0
+Rob focuses on fortifying the castle walls and gates. The defenses are strong, but winter supplies are running low.
+Organize a foraging party to gather more supplies
+Negotiate with nearby houses for additional resources
+13 14
+05 10 0
+Rob plans a strategic route to King's Landing, avoiding major Lannister forces.
+Move through the Riverlands to gain the support of House Tully
+Head directly to King's Landing, avoiding distractions
+15 16
+05 10 0
+Rob marches directly towards King's Landing to show strength, but this bold move attracts significant Lannister attention.
+Engage the Lannister forces head-on
+Set a trap to weaken the Lannister forces before engaging
+17 18
+05 10 0
+Rob gathers more troops from loyal Northern houses, boosting his army.
+Launch a surprise attack on a nearby Lannister camp
+Continue to march south, avoiding unnecessary battles
+19 20
+05 50 0
+Rob sends scouts ahead to gather intelligence on enemy movements. The scouts report back with valuable information.
+Plan an ambush based on the scout's information
+Avoid the enemy and continue the march to King's Landing
+21 22
+05 0 0
+Rob prepares an ambush for the Lannister force. The ambush is successful, but Rob suffers a minor wound in the skirmish.
+Press the attack to take advantage of the victory
+Fall back and tend to the wounded
+23 24
+05 0 -50
+Rob fortifies Winterfell further and prepares for a siege. The Lannister forces lay siege to the castle.
+Defend the walls and repel the attackers
+Attempt a breakout to seek reinforcements
+25 26
+05 0 0
+Rob organizes a foraging party to gather more supplies. The party returns successfully, but with minor injuries from wild animals.
+Rest and heal the injured
+Continue with the training and preparation
+27 28
+05 30 -20
+Rob negotiates with nearby houses for additional resources. Some houses agree to help, while others remain neutral.
+Plan to protect the resources and prepare for potential betrayal
+Send emissaries to convince the nuetral houses to join your cause
+29 30
+05 20 0
+Rob moves through the Riverlands to gain the support of House Tully. They agree to help, but require assistance against the Lannisters.
+Join forces with House Tully to fight the Lannisters
+Request House Tully to send troops while continuing south
+31 32
+05 05 0
+Rob heads directly to King's Landing, avoiding distractions. He encounters a Lannister scouting party.
+Capture the scouts for information
+Avoid them and continue marching
+33 34
+05 0 0
+Rob engages the Lannister forces head-on. The battle is fierce, but Rob is killed in the chaos.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob sets a trap to weaken the Lannister forces before engaging. The trap works, but Rob is seriously injured in the ensuing battle and dies from his wounds.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob launches a surprise attack on a nearby Lannister camp. The attack is a success, bolstering his forces' morale.
+Continue the offensive and capture more territory
+Consolidate gains and prepare for a larger campaign
+35 36
+05 30 -20
+Rob continues to march south, avoiding unnecessary battles. His army remains strong and focused.
+Press on to King's Landing with urgency
+Establish a secure base in the Riverlands first
+37 38
+05 10 0
+Rob plans an ambush based on the scout's information. The ambush is successful, but Rob is gravely wounded and dies shortly after.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob avoids the enemy and continues the march to King's Landing. The army encounters little resistance.
+Move quickly to take advantage of the lack of resistance
+Slow the pace to allow for rest and resupply
+39 40
+05 05 0
+Rob presses the attack to take advantage of the victory. The Lannisters retreat, but Rob sustains a fatal wound in the process and dies.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob falls back and tends to the wounded. His cautious approach saves many lives and strengthens the army.
+Plan the next strategic move carefully
+Launch a surprise attack on the retreating Lannister forces
+41 42
+05 0 -20
+Rob defends the walls and repels the attackers. The siege is broken, but the victory comes at a high cost.
+Pursue the retreating enemy
+Strengthen the defenses further to prepare for another attack
+43 44
+05 10 -40
+Rob attempts a breakout to seek reinforcements. The breakout is successful, but Rob is captured and executed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob rests and heals the injured. Morale improves and the soldiers are ready for the next challenge.
+Plan a major offensive against the Lannisters
+Secure alliances with nearby houses
+45 46
+05 05 40
+Rob continues with the training and preparation. The army's combat readiness is at its peak.
+March south to engage the Lannisters directly
+Send a smaller force to harass the enemy while fortifying Winterfell
+47 48
+05 20 0
+Rob plans to protect resources and prepare for potential betrayal. His caution prevents any surprise attacks.
+Launch a preemptive strike against potential traitors
+Focus on strenghthening alliances and building trust
+49 50
+05 0 0
+Rob sends emissaries to convince the neutral houses to join his cause. Some agree, increasing his forces.
+Use the new troops to launch an offensive against the Lannisters
+Keep the new troops in reserve for strategic advantage
+51 52
+05 20 0
+Rob joins forces with House Tully to fight the Lannisters. Together, they win a decisive battle.
+Continue south to press the advantage 
+Consolidate forces and prepare for a major campaign
+53 54
+05 20 0
+Rob requests House Tully to send troops while continuing south. The Tully forces arrive just in time to bolster his ranks.
+Use the reinforcements to attack a vulnerable Lannister position
+Keep the reinforcements close for defense
+55 56
+05 0 10
+Rob captures the scouts for information. They reveal a Lannister ambush ahead.
+Plan a counter-ambush
+Avoid the ambush by taking a different route
+57 58
+05 10 0
+Rob avoids the scouts and continues marching. The lack of interference speeds up the journey.
+Press the advantage and move quickly
+Slow down to ensure the troops are well-rested
+59 60
+05 10 0
+Rob continues the offensive and captures more territory. His momentum builds as more houses join his cause.
+March to King's Landing for a final showdown
+Secure the newly captured territories before advancing
+61 62
+05 10 0
+Rob consolidates gains and prepares for a larger campaign. His forces are well-positioned for the next move.
+Launch a coordinated attack on Lannister strongholds
+Focus on defending key positions and gathering more allies
+63 64
+05 10 0
+Rob presses on to King's Landing with urgency. The quick pace leaves little room for rest, but it catches the Lannisters off guard.
+Continue the fast march to maintain the element of surprise
+Slow down to allow the troops to recover
+65 66
+05 10 0
+Rob establishes a secure base in the Riverlands first. The strategic location allows for better supply lines and support.
+Use the base to launch raids on Lannister supply lines
+Fortify the base and prepare for a long campaign
+67 68
+05 10 0
+Rob moves quickly to take advantage of the lack of resistance. His forces reach the outskirts of King's Landing.
+Prepare for a siege on the city
+Attempt a surprise assault to take the city quickly
+69 70
+05 10 0
+Rob slows the pace to allow for rest and resupply. The troops are well-prepared for the final push.
+March to King's Landing for a decisive battle
+Secure alliances with other factions in the area first
+71 72
+05 10 0
+Rob plans the next strategic move carefully. His cautious approach pays off with a significant victory.
+Press the advantage and push towards King's Landing
+Consolidate the victory and prepare for the next challenge
+73 74
+05 10 0
+Rob launches a surprise attack on the retreating Lannister forces. The attack is a resounding success, boosting morale.
+Pursue the Lannisters to ensure they don't regroup
+Fortify the current position and await further instructions
+75 76
+05 10 0
+Rob pursues the retreating enemy. The pursuit is successful, but Rob is ambushed and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob strengthens the defenses further to prepare for another attack. The strong defenses deter any immediate threats.
+Launch preemptive strikes on known enemy positions
+Focus on securing and maintaining the current stronghold
+77 78
+05 10 0
+Rob plans a major offensive against the Lannisters. The offensive is well-executed and puts the Lannisters on the defensive.
+Press the attack to maintain momentum
+Consolidate gains and prepare for a counterattack
+79 80
+05 10 0
+Rob secures alliances with nearby houses. The added support strengthens his position significantly.
+Use the new allies to launch an offensive against the Lannisters
+Keep the new allies in reserve for strategic advantage
+81 82
+05 10 0
+Rob marches south to engage the Lannisters directly. The army's morale is high and they are well-prepared for battle.
+Engage the Lannister forces head-on
+Use guerrilla tactics to weaken the enemy before a major engagement
+83 84
+05 10 0
+Rob sends a smaller force to harass the enemy while fortifying Winterfell. The harassment disrupts Lannister supply lines.
+Use the disruption to launch a larger offensive
+Continue the harassment to weaken the enemy further
+85 86
+05 10 0
+Rob launches a preemptive strike against potential traitors. The strike is successful, neutralizing the threat.
+Use the momentum to launch a larger campaign
+Consolidate the victory and strengthen defenses
+87 88
+05 10 0
+Rob focuses on strengthening alliances and building trust. The increased cooperation among houses strengthens his position.
+Use the united forces to launch an offensive
+Keep the alliances strong and prepare for a prolonged campaign
+89 90
+05 10 0
+Rob uses the new troops to launch an offensive against the Lannisters. The offensive is successful, gaining significant ground.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+91 92
+05 10 0
+Rob keeps the new troops in reserve for strategic advantage. The reserve force proves invaluable in a surprise counterattack.
+Use the reserves to launch a major offensive
+Keep the reserves for defense and fortify positions
+93 94
+05 10 0
+Rob continues south to press the advantage. His forces are strong and morale is high.
+Engage the Lannisters in a decisive battle
+Continue to weaken the Lannisters with smaller engagements
+95 96
+05 10 0
+Rob consolidates forces and prepares for a major campaign. The preparations are thorough, ensuring the army is well-supplied and ready.
+Launch a major offensive towards King's Landing
+Fortify key positions and await further developments
+97 98
+05 10 0
+Rob uses the reinforcements to attack a vulnerable Lannister position. The attack is successful, capturing valuable territory.
+Press the attack and capture more territory
+Consolidate the captured territory and prepare for defense
+99 100
+05 10 0
+Rob keeps the reinforcements close for defense. The reinforcements prove crucial in repelling a surprise Lannister attack.
+Use the reinforcements to launch a counter-offensive
+Fortify positions and prepare for a prolonged campaign
+101 102
+05 10 0
+Rob plans a counter-ambush. The counter-ambush is successful, decimating the Lannister forces.
+Pursue the remaining Lannisters to ensure they can't regroup
+Consolidate the victory and prepare for the next move
+103 104
+05 10 0
+Rob avoids the ambush by taking a different route. The detour costs time but saves many lives.
+Plan a new route to continue the march to King's Landing
+Fortify the new position and prepare for a counterattack
+105 106
+05 10 0
+Rob presses the advantage and moves quickly. His forces reach the outskirts of King's Landing with little resistance.
+Prepare for a siege on the city
+Attempt a surprise assault to take the city quickly
+107 108
+05 10 0
+Rob slows down to ensure the troops are well-rested. The troops are ready for the final push.
+March to King's Landing for a decisive battle
+Secure alliances with other factions in the area first
+109 110
+05 10 0
+Rob marches to King's Landing for a final showdown. The city is well-defended, but his forces are strong and determined.
+Launch a full-scale assault on the city
+Lay siege and wait for the city to weaken
+111 112
+05 10 0
+Rob secures the newly captured territories before advancing. The fortified positions ensure a strong defense.
+Launch an offensive towards King's Landing
+Focus on maintaining control over the new territories
+113 114
+05 10 0
+Rob launches a coordinated attack on Lannister strongholds. The attack is successful, weakening the Lannister hold on the region.
+Press the attack and capture more territory
+Consolidate gains and prepare for a counterattack
+115 116
+05 10 0
+Rob focuses on defending key positions and gathering more allies. The defensive strategy pays off, securing strong positions.
+Use the strong positions to launch an offensive
+Continue to fortify and prepare for future challenges
+117 118
+05 10 0
+Rob continues the fast march to maintain the element of surprise. His forces reach King's Landing before the Lannisters can fully prepare.
+Launch a surprise assault on the city
+Prepare for a siege to weaken the city's defenses
+119 120
+05 10 0
+Rob slows down to allow the troops to recover. The rest period ensures the troops are in top condition for the final battle.
+March to King's Landing for a decisive battle
+Secure alliances with other factions in the area first
+121 122
+05 10 0
+Rob uses the base to launch raids on Lannister supply lines. The raids are highly effective, disrupting enemy logistics.
+Use the disruption to launch a larger offensive
+Continue the raids to weaken the enemy further
+123 124
+05 10 0
+Rob fortifies the base and prepares for a long campaign. The secure position allows for a sustained effort against the Lannisters.
+Launch a major offensive from the fortified base
+Use the base to coordinate with allies and gather more support
+125 126
+05 10 0
+Rob prepares for a siege on the city. The preparations are thorough, ensuring the army is ready for a prolonged engagement.
+Begin the siege and cut off the city's supplies
+Attempt to negotiate a surrender to avoid a prolonged siege
+127 128
+05 10 0
+Rob attempts a surprise assault to take the city quickly. The assault is met with fierce resistance, leading to heavy losses.
+Continue the assault despite the losses
+Pull back and prepare for a siege instead
+129 130
+05 10 0
+Rob marches to King's Landing for a decisive battle. The final push is well-coordinated and the army is in high spirits.
+Launch a full-scale assault on the city
+Lay siege and wait for the city to weaken
+131 132
+05 10 0
+Rob secures alliances with other factions in the area first. The increased support strengthens his position significantly.
+Use the combined forces to launch a major offensive
+Keep the forces in reserve and fortify positions
+133 134
+05 10 0
+Rob presses the advantage and pushes towards King's Landing. The momentum carries his forces to the city's gates.
+Launch a surprise assault to take the city quickly
+Prepare for a siege to weaken the city's defenses
+135 136
+05 10 0
+Rob consolidates the victory and prepares for the next challenge. The army is well-positioned for the final push.
+March to King's Landing for a decisive battle
+Secure alliances with other factions in the area first
+137 138
+05 10 0
+Rob pursues the Lannisters to ensure they don't regroup. The pursuit leads to another battle, but Rob is killed in the chaos.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob fortifies the current position and awaits further instructions. The secure position ensures the army is ready for the next move.
+Plan a strategic offensive against the Lannisters
+Strengthen alliances and gather more support
+139 140
+05 10 0
+Rob launches preemptive strikes on known enemy positions. The strikes are successful, disrupting enemy plans.
+Use the disruption to launch a larger offensive
+Consolidate gains and prepare for a counterattack
+141 142
+05 10 0
+Rob focuses on securing and maintaining the current stronghold. The strong defenses ensure a stable base for future operations.
+Launch a major offensive from the stronghold
+Use the stronghold to gather more allies and support
+143 144
+05 10 0
+Rob presses the attack to maintain momentum. The continued offensive weakens the Lannisters significantly.
+March to King's Landing for a final showdown
+Consolidate gains and prepare for a counterattack
+145 146
+05 10 0
+Rob consolidates gains and prepares for a counterattack. The cautious approach strengthens the army's position.
+Launch a coordinated attack on Lannister strongholds
+Focus on defending key positions and gathering more allies
+147 148
+05 10 0
+Rob uses the new allies to launch an offensive against the Lannisters. The offensive is successful, gaining significant ground.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+149 150
+05 10 0
+Rob keeps the new allies in reserve for strategic advantage. The reserve force proves invaluable in a surprise counterattack.
+Use the reserves to launch a major offensive
+Keep the reserves for defense and fortify positions
+151 152
+05 10 0
+Rob engages the Lannister forces head-on. The battle is intense, but Rob emerges victorious.
+Continue the offensive to capitalize on the victory
+Consolidate gains and prepare for the next challenge
+153 154
+05 10 0
+Rob uses guerrilla tactics to weaken the enemy before a major engagement. The tactics are highly effective, causing significant disruption.
+Launch a major offensive to take advantage of the weakened enemy
+Continue the guerrilla tactics to further weaken the enemy
+155 156
+05 10 0
+Rob uses the disruption to launch a larger offensive. The offensive is successful, capturing key territories.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+157 158
+05 10 0
+Rob continues the harassment to weaken the enemy further. The ongoing disruption causes chaos in the Lannister ranks.
+Use the chaos to launch a major offensive
+Continue the harassment to keep the enemy off-balance
+159 160
+05 10 0
+Rob uses the momentum to launch a larger campaign. The larger campaign is successful, gaining significant ground.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+161 162
+05 10 0
+Rob consolidates the victory and strengthens defenses. The fortified position ensures a strong defense against any counterattacks.
+Launch a strategic offensive against the Lannisters
+Continue to strengthen alliances and gather more support
+163 164
+05 10 0
+Rob uses the united forces to launch an offensive. The offensive is successful, capturing key territories.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+165 166
+05 10 0
+Rob keeps the alliances strong and prepares for a prolonged campaign. The preparations ensure a stable position for future operations.
+Launch a major offensive to capitalize on the strength
+Use the stable position to gather more support and allies
+167 168
+05 10 0
+Rob continues the push towards King's Landing. The momentum carries his forces close to the city gates.
+Launch a surprise assault to take the city quickly
+Prepare for a siege to weaken the city's defenses
+169 170
+05 10 0
+Rob consolidates gains and prepares for a counterattack. The cautious approach ensures a strong defensive position.
+Launch a strategic offensive to capitalize on the gains
+Focus on defending key positions and gathering more allies
+171 172
+05 10 0
+Rob uses the reserves to launch a major offensive. The offensive is highly successful, capturing significant territory.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+173 174
+05 10 0
+Rob keeps the reserves for defense and fortifies positions. The strong defenses ensure a stable base for future operations.
+Launch a strategic offensive from the fortified positions
+Use the fortified base to gather more allies and support
+175 176
+05 10 0
+Rob engages the Lannisters in a decisive battle. The battle is intense, but Rob's forces are victorious.
+Continue the offensive to capitalize on the victory
+Consolidate gains and prepare for the next challenge
+177 178
+05 10 0
+Rob continues to weaken the Lannisters with smaller engagements. The strategy is effective, causing significant disruption.
+Launch a major offensive to take advantage of the weakened enemy
+Continue the smaller engagements to keep the enemy off-balance
+179 180
+05 10 0
+Rob launches a major offensive towards King's Landing. The offensive is well-coordinated and gains significant ground.
+Continue the push towards the city
+Consolidate gains and prepare for a counterattack
+181 182
+05 10 0
+Rob fortifies key positions and awaits further developments. The fortified positions ensure a strong defense.
+Launch a strategic offensive to capitalize on the fortifications
+Focus on defending and gathering more support
+183 184
+05 10 0
+Rob presses the attack and captures more territory. The continued offensive weakens the Lannisters significantly.
+March to King's Landing for a final showdown
+Consolidate gains and prepare for a counterattack
+185 186
+05 10 0
+Rob consolidates the captured territory and prepares for defense. The fortified positions ensure a strong defense against any counterattacks.
+Launch a strategic offensive against the Lannisters
+Continue to strengthen alliances and gather more support
+187 188
+05 10 0
+Rob uses the reinforcements to launch a counter-offensive. The counter-offensive is highly successful, gaining significant ground.
+Continue the push towards King's Landing
+Consolidate gains and prepare for a counterattack
+189 190
+05 10 0
+Rob fortifies positions and prepares for a prolonged campaign. The secure positions ensure a stable base for future operations.
+Launch a strategic offensive from the fortified positions
+Use the fortified base to gather more allies and support
+191 192
+05 10 0
+Rob stark persue the remaining Lannisters but during their combat he got spotted and killed.
+Load last saved game (5)
+Exit Game (0)
+-1 -1
+0 0 -100
+Rob consolidates his victory and gets prepare for his next move.
+Move towards King's Landing
+Fall back to Winterfell
+193 194
+05 0 0
