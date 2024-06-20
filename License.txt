@@ -1,0 +1,12 @@
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files of (the "Tale of Seven Kingdoms"), to use, copy, and modify the Software solely for educational, instructional, and non-commercial purposes, subject to the following conditions:
+The Software is provided for learning and instructional purposes only. It may not be used for commercial purposes or for financial gain. Sale, resale, or any other form of commercial distribution of the Software or any modified version of the Software is strictly prohibited.
+Appropriate credit must be given to the original author(s) of the Software, and any substantial modifications to the Software must be documented.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Users are permitted to modify and redistribute the Software for non-commercial, educational purposes, provided that the above conditions are met and that the modified software retains this license agreement.
+
+
+
+
+
+			
+				© Copyright @Reyan. All rights reserved
