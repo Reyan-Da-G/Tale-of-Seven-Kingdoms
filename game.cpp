@@ -1,3 +1,19 @@
+/*
+-------------------------------------------------------------------------------------------------------
+               
+               Project title   : Storytelling Game
+               Made By         : Muhammad Reyan
+               Language used   : C++
+               Platform        : Mac os 
+               IDE used        : Visual Studio Code
+               Date completed  : 2024-05-20
+               Storyline       : This game story is inspired from novel "A song of Ice and Fire"
+
+                    Check license and copyright claim opening "License.txt".  
+
+ ------------------------------------------------------------------------------------------------------
+*/
+
 #include"game.h"
 
 // Function to hide cursor for smooth gameplay
